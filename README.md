@@ -18,17 +18,6 @@ dotnet test Petstore.XUnitTests/Petstore.XUnitTests.csproj --logger "console;ver
 dotnet test Petstore.NUnitTests/Petstore.NUnitTests.csproj --logger "console;verbosity=normal"
 ```
 
-## Скриншоты результатов
-
-### xUnit
-
-![Результаты xUnit](screenshots/xunit-results.png)
-
-### NUnit
-
-![Результаты NUnit](screenshots/nunit-results.png)
-
-## Документы по лабораторной
 
 - [Анализ результатов (Analysis.md)](Analysis.md)
 - [Контрольные вопросы (Questions.md)](Questions.md)
